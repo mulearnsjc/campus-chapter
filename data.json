@@ -1,10 +1,7 @@
 {
-    "collegeCode": "SNT",
-
-    "college": "Sree Narayana Guru Institute of Science and Technology",
-
+    "collegeCode": "SJCET",
+    "college": "St Joseph's College of Engineering and Technology",
     "about": "Lorem ipsum dolor sit amet consectetur adipiscing, elit ultricies imperdiet neque mattis, orci pellentesque turpis facilisi leo. Laoreet donec tortor sagittis habitasse eleifend conubia quis lacinia accumsan auctor, montes morbi natoque convallis integer aliquam posuere eu nulla, proin fames dapibus mattis sociis ligula blandit quam potenti. Himenaeos fringilla tincidunt aptent porta ultrices velit dignissim senectus purus suspendisse, fames eleifend feugiat nam hac montes semper pretium potenti, viverra curae netus volutpat cras per eu cubilia primis.",
-
     "events": [
         {
             "month": "Sep",
@@ -42,7 +39,6 @@
             "img": "https://wallpaperaccess.com/full/1642272.jpg"
         }
     ],
-
     "gallery": {
         "row1": [
             {
@@ -51,9 +47,9 @@
             {
                 "image": "https://mulearn.org/assets/home/Chart.webp"
             },
-			{
-				"image": "https://learn.mulearn.org/assets/challenge/typingsample.webp"
-			}
+            {
+                "image": "https://learn.mulearn.org/assets/challenge/typingsample.webp"
+            }
         ],
         "row2": [
             {
@@ -64,7 +60,6 @@
             }
         ]
     },
-
     "statistics": {
         "studentsCount": 30,
         "learningCircles": 10,
@@ -72,7 +67,6 @@
         "karmaEarned": 60,
         "rank": 28
     },
-
     "team": {
         "staffAdvisor": {
             "name": "Enric S Neelamkavil",
@@ -107,18 +101,11 @@
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         }
     },
-
     "discordLink": "",
-
     "whatsAppLink": "",
-
-    "email": "mulearn@cce.edu.in",
-
+    "email": "mulearn@sjcetpalai.ac.in",
     "linkedIn": "",
-
     "instagram": "",
-
     "twitter": "",
-
     "facebook": ""
 }
