@@ -61,11 +61,11 @@
         ]
     },
     "statistics": {
-        "studentsCount": 30,
+        "studentsCount": 1500,
         "learningCircles": 10,
         "InterestGroups": 5,
-        "karmaEarned": 60,
-        "rank": 28
+        "karmaEarned": 1430000,
+        "rank": 1
     },
     "team": {
         "staffAdvisor": {
@@ -102,10 +102,10 @@
         }
     },
     "discordLink": "",
-    "whatsAppLink": "",
+    "whatsAppLink": "https://chat.whatsapp.com/I25GrqLiiiC8UZjZKmlNsN",
     "email": "mulearn@sjcetpalai.ac.in",
-    "linkedIn": "",
-    "instagram": "",
+    "linkedIn": "https://www.linkedin.com/in/mulearn-campus-sjcet-palai-33497a254/",
+    "instagram": "https://www.instagram.com/mulearn.sjcet/",
     "twitter": "",
     "facebook": ""
 }
