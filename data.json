@@ -15,7 +15,7 @@
             "date": "27",
             "head": "Salt Mango Tree",
             "para": "Can Kindness and Honesty Coexist? A Thought Provoking discussion",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "img": "/assets/images/Events/slt.jpg"
         },
         {
             "month": "nov",
@@ -70,7 +70,7 @@
     "team": {
         "staffAdvisor": {
             "name": "Sarju S",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "public/assets/images/team/sarju s.svg"
         },
         "campusLead": {
             "name": "AwinDas R",
@@ -86,7 +86,7 @@
         },
         "technicalLead": {
             "name": "Jovit Mathew",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "/assets/images/team/jovit.svg"
         },
         "mediaLead": {
             "name": "Ann Elizabeth",
