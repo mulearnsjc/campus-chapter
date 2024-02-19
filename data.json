@@ -42,21 +42,21 @@
     "gallery": {
         "row1": [
             {
-                "image": "./src/Components/Gallery/assets/1.jpg"
+                "image": "/src/Components/Gallery/assets/1.jpg"
             },
             {
-                "image": "./src/Components/Gallery/assets/3.jpg"
+                "image": "/src/Components/Gallery/assets/3.jpg"
             },
             {
-                "image": "./src/Components/Gallery/assets/5.jpg"
+                "image": "/src/Components/Gallery/assets/5.jpg"
             }
         ],
         "row2": [
             {
-                "image": "./src/Components/Gallery/assets/2.jpg"
+                "image": "/src/Components/Gallery/assets/2.jpg"
             },
             {
-                "image": "./src/Components/Gallery/assets/6.jpg"
+                "image": "/src/Components/Gallery/assets/6.jpg"
             }
         ]
     },
