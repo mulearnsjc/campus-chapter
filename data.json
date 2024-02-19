@@ -8,7 +8,7 @@
             "date": "8-31",
             "head": "Karma Marathon",
             "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "./src/Components/Events/assets/karmamarathon.png"
+            "img": "/assets/images/Events/karmamarathon.png"
         },
         {
             "month": "oct",
@@ -22,41 +22,41 @@
             "date": "6",
             "head": "MuStory Premiere",
             "para": "Grand Premiere Event of MuStory to Witness the Launch of the Exclusive Video.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "img": "/assets/images/Events/mustory.jpg"
         },
         {
             "month": "feb",
             "date": "20",
             "head": "Inspiration Station Radio by Jaidon Gill Shajan",
             "para": "Jaidon Gill Shajan's Inspiring talk session on µLearn and Campus Placements.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "img": "/assets/images/Events/isr.png"
         },
         {
             "month": "jan",
             "date": "12",
             "head": "Exam Prep",
             "para": "Sarju S' Engaging Exam Prep Session to Set Students on a Path to Master OOPS Java.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "img": "/assets/images/Events/examprep.jpg"
         }
     ],
     "gallery": {
         "row1": [
             {
-                "image": "https://wallpaperaccess.com/full/1642272.jpg"
+                "image": "/assets/images/Gallery/1.jpg"
             },
             {
-                "image": "https://wallpaperaccess.com/full/1642272.jpg"
+                "image": "/assets/images/Gallery/3.jpg"
             },
             {
-                "image": "https://wallpaperaccess.com/full/1642272.jpg"
+                "image": "/assets/images/Gallery/5.jpg"
             }
         ],
         "row2": [
             {
-                "image": "https://wallpaperaccess.com/full/1642272.jpg"
+                "image": "/assets/images/Gallery/2.jpg"
             },
             {
-                "image": "https://wallpaperaccess.com/full/1642272.jpg"
+                "image": "/assets/images/Gallery/6.png"
             }
         ]
     },
@@ -74,15 +74,15 @@
         },
         "campusLead": {
             "name": "AwinDas R",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "/assets/images/team/awin das.svg"
         },
         "campusCoLead": {
             "name": "Akhil Sabu",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "/assets/images/team/akhil.svg"
         },
         "campusCoLead2": {
             "name": "Christy Maria",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "/assets/images/team/christy.svg"
         },
         "technicalLead": {
             "name": "Jovit Mathew",
@@ -90,15 +90,15 @@
         },
         "mediaLead": {
             "name": "Ann Elizabeth",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "/assets/images/team/ann.svg"
         },
         "contentLead": {
             "name": "Diya Benny",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "/assets/images/team/diya.svg"
         },
         "creativeLead": {
             "name": "Thomas",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "image": "/assets/images/team/thomas.svg"
         }
     },
     "discordLink": "",
