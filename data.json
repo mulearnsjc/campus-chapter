@@ -49,6 +49,12 @@
             },
             {
                 "image": "/assets/images/Gallery/5.jpg"
+            },
+            {
+                "image": "/assets/images/Gallery/8.jpg"
+            },
+            {
+                "image": "/assets/images/Gallery/10.jpg"
             }
         ],
         "row2": [
@@ -57,6 +63,12 @@
             },
             {
                 "image": "/assets/images/Gallery/6.png"
+            },
+            {
+                "image": "/assets/images/Gallery/7.jpg"
+            },
+            {
+                "image": "/assets/images/Gallery/9.jpg"
             }
         ]
     },
@@ -70,35 +82,35 @@
     "team": {
         "staffAdvisor": {
             "name": "Sarju S",
-            "image": "/assets/images/team/sarju s.svg"
+            "image": "/assets/images/team/sarjus.webp"
         },
         "campusLead": {
             "name": "AwinDas R",
-            "image": "/assets/images/team/awin das.svg"
+            "image": "/assets/images/team/AwindasR.webp"
         },
         "campusCoLead": {
             "name": "Akhil Sabu",
-            "image": "/assets/images/team/akhil.svg"
+            "image": "/assets/images/team/akhil.webp"
         },
         "campusCoLead2": {
             "name": "Christy Maria",
-            "image": "/assets/images/team/christy.svg"
+            "image": "/assets/images/team/christy.webp"
         },
         "technicalLead": {
             "name": "Jovit Mathew",
-            "image": "/assets/images/team/jovit.svg"
+            "image": "/assets/images/team/jovit.webp"
         },
         "mediaLead": {
             "name": "Ann Elizabeth",
-            "image": "/assets/images/team/ann.svg"
+            "image": "/assets/images/team/ann.webp"
         },
         "contentLead": {
             "name": "Diya Benny",
-            "image": "/assets/images/team/diya.svg"
+            "image": "/assets/images/team/diya.webp"
         },
         "creativeLead": {
             "name": "Thomas",
-            "image": "/assets/images/team/thomas.svg"
+            "image": "/assets/images/team/thomas.webp"
         }
     },
     "discordLink": "",
