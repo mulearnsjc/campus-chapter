@@ -1,62 +1,62 @@
 {
     "collegeCode": "SJCET",
     "college": "St Joseph's College of Engineering and Technology",
-    "about": "Lorem ipsum dolor sit amet consectetur adipiscing, elit ultricies imperdiet neque mattis, orci pellentesque turpis facilisi leo. Laoreet donec tortor sagittis habitasse eleifend conubia quis lacinia accumsan auctor, montes morbi natoque convallis integer aliquam posuere eu nulla, proin fames dapibus mattis sociis ligula blandit quam potenti. Himenaeos fringilla tincidunt aptent porta ultrices velit dignissim senectus purus suspendisse, fames eleifend feugiat nam hac montes semper pretium potenti, viverra curae netus volutpat cras per eu cubilia primis.",
+    "about": "Welcome to µLearn SJCET, your gateway to transformative education! µLearn is where talents converge to revolutionize education. We're dedicated to reshaping education through a paradigm shift, empowering self-directed learning in a democratic, demonetized, decentralized environment. Our mission: cultivate future skills through collaborative learning, fostering micro peer groups breaking echo chambers and limitations. SJCET is pivotal in µLearn, contributing to and benefiting from initiatives, fostering holistic development, and creating a well-rounded educational experience. Join us to redefine education for a brighter tomorrow.",
     "events": [
         {
-            "month": "Sep",
-            "date": "29",
-            "head": "Event 1",
+            "month": "dec",
+            "date": "8-31",
+            "head": "Karma Marathon",
             "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "img": "./src/Components/Events/assets/karmamarathon.png"
         },
         {
-            "month": "Sep",
+            "month": "oct",
             "date": "27",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
+            "head": "Salt Mango Tree",
+            "para": "Can Kindness and Honesty Coexist? A Thought Provoking discussion",
             "img": "https://wallpaperaccess.com/full/1642272.jpg"
         },
         {
-            "month": "Sep",
-            "date": "26",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "month": "nov",
+            "date": "6",
+            "head": "MuStory Premiere",
+            "para": "Grand Premiere Event of MuStory to Witness the Launch of the Exclusive Video.",
+            "img": "./src/Components/Events/assets/mustory.jpg"
         },
         {
-            "month": "Sep",
-            "date": "25",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "month": "feb",
+            "date": "20",
+            "head": "Inspiration Station Radio by Jaidon Gill Shajan",
+            "para": "Jaidon Gill Shajan's Inspiring talk session on µLearn and Campus Placements.",
+            "img": "./src/Components/Events/assets/isr.png"
         },
         {
-            "month": "Sep",
-            "date": "25",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
+            "month": "jan",
+            "date": "12",
+            "head": "Exam Prep",
+            "para": "Sarju S' Engaging Exam Prep Session to Set Students on a Path to Master OOPS Java.",
+            "img": "./src/Components/Events/assets/examprep.jpg"
         }
     ],
     "gallery": {
         "row1": [
             {
-                "image": "https://mulearn.org/assets/home/illustration.webp"
+                "image": "./src/Components/Gallery/assets/1.jpg"
             },
             {
-                "image": "https://mulearn.org/assets/home/Chart.webp"
+                "image": "./src/Components/Gallery/assets/3.jpg"
             },
             {
-                "image": "https://learn.mulearn.org/assets/challenge/typingsample.webp"
+                "image": "./src/Components/Gallery/assets/5.jpg"
             }
         ],
         "row2": [
             {
-                "image": "https://th.bing.com/th/id/OIP.p5zC9uLm5ByGSy8gYI0McAHaE8?pid=ImgDet&rs=1"
+                "image": "./src/Components/Gallery/assets/2.jpg"
             },
             {
-                "image": "https://images.squarespace-cdn.com/content/v1/5c710438b914490d5769a64f/b4fb2b4f-5f95-41a1-9416-d156d0ae273f/Most+Famous+Astrologer+in+the+World.jpg"
+                "image": "./src/Components/Gallery/assets/6.jpg"
             }
         ]
     },
@@ -69,39 +69,39 @@
     },
     "team": {
         "staffAdvisor": {
-            "name": "Enric S Neelamkavil",
+            "name": "Sarju S",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "campusLead": {
-            "name": "Elon Musk",
-            "image": "https://th.bing.com/th/id/OIP.DjyPSeO-t7bK2agoLSYJzgHaHa?pid=ImgDet&rs=1"
+            "name": "AwinDas R",
+            "image": "./src/assets/images/awin das.svg"
         },
         "campusCoLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "Akhil Sabu",
+            "image": "./src/assets/images/akhil.svg"
         },
-        "treasurer": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        "campusCoLead2": {
+            "name": "Christy Maria",
+            "image": "./src/assets/images/christy.svg"
         },
         "technicalLead": {
-            "name": "Enric S Neelamkavil",
+            "name": "Jovit Mathew",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "mediaLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "Ann Elizabeth",
+            "image": "./src/assets/images/ann.svg"
         },
         "contentLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "Diya Benny",
+            "image": "./src/assets/images/diya.svg"
         },
-        "operationLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        "creativeLead": {
+            "name": "Thomas",
+            "image": "./src/assets/images/thomas.svg"
         }
     },
-    "discordLink": "",
+    "discordLink": "https://discord.gg/swzdmGe6",
     "whatsAppLink": "https://chat.whatsapp.com/I25GrqLiiiC8UZjZKmlNsN",
     "email": "mulearn@sjcetpalai.ac.in",
     "linkedIn": "https://www.linkedin.com/in/mulearn-campus-sjcet-palai-33497a254/",
