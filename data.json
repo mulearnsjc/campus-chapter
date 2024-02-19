@@ -22,41 +22,41 @@
             "date": "6",
             "head": "MuStory Premiere",
             "para": "Grand Premiere Event of MuStory to Witness the Launch of the Exclusive Video.",
-            "img": "./src/Components/Events/assets/mustory.jpg"
+            "img": "https://wallpaperaccess.com/full/1642272.jpg"
         },
         {
             "month": "feb",
             "date": "20",
             "head": "Inspiration Station Radio by Jaidon Gill Shajan",
             "para": "Jaidon Gill Shajan's Inspiring talk session on µLearn and Campus Placements.",
-            "img": "./src/Components/Events/assets/isr.png"
+            "img": "https://wallpaperaccess.com/full/1642272.jpg"
         },
         {
             "month": "jan",
             "date": "12",
             "head": "Exam Prep",
             "para": "Sarju S' Engaging Exam Prep Session to Set Students on a Path to Master OOPS Java.",
-            "img": "./src/Components/Events/assets/examprep.jpg"
+            "img": "https://wallpaperaccess.com/full/1642272.jpg"
         }
     ],
     "gallery": {
         "row1": [
             {
-                "image": "/src/Components/Gallery/assets/1.jpg"
+                "image": "https://wallpaperaccess.com/full/1642272.jpg"
             },
             {
-                "image": "/src/Components/Gallery/assets/3.jpg"
+                "image": "https://wallpaperaccess.com/full/1642272.jpg"
             },
             {
-                "image": "/src/Components/Gallery/assets/5.jpg"
+                "image": "https://wallpaperaccess.com/full/1642272.jpg"
             }
         ],
         "row2": [
             {
-                "image": "/src/Components/Gallery/assets/2.jpg"
+                "image": "https://wallpaperaccess.com/full/1642272.jpg"
             },
             {
-                "image": "/src/Components/Gallery/assets/6.jpg"
+                "image": "https://wallpaperaccess.com/full/1642272.jpg"
             }
         ]
     },
@@ -74,15 +74,15 @@
         },
         "campusLead": {
             "name": "AwinDas R",
-            "image": "./src/assets/images/awin das.svg"
+            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "campusCoLead": {
             "name": "Akhil Sabu",
-            "image": "./src/assets/images/akhil.svg"
+            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "campusCoLead2": {
             "name": "Christy Maria",
-            "image": "./src/assets/images/christy.svg"
+            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "technicalLead": {
             "name": "Jovit Mathew",
@@ -90,18 +90,18 @@
         },
         "mediaLead": {
             "name": "Ann Elizabeth",
-            "image": "./src/assets/images/ann.svg"
+            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "contentLead": {
             "name": "Diya Benny",
-            "image": "./src/assets/images/diya.svg"
+            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "creativeLead": {
             "name": "Thomas",
-            "image": "./src/assets/images/thomas.svg"
+            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         }
     },
-    "discordLink": "https://discord.gg/swzdmGe6",
+    "discordLink": "",
     "whatsAppLink": "https://chat.whatsapp.com/I25GrqLiiiC8UZjZKmlNsN",
     "email": "mulearn@sjcetpalai.ac.in",
     "linkedIn": "https://www.linkedin.com/in/mulearn-campus-sjcet-palai-33497a254/",
