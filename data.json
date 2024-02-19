@@ -70,7 +70,7 @@
     "team": {
         "staffAdvisor": {
             "name": "Sarju S",
-            "image": "public/assets/images/team/sarju s.svg"
+            "image": "/assets/images/team/sarju s.svg"
         },
         "campusLead": {
             "name": "AwinDas R",
