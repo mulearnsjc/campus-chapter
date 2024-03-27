@@ -26,12 +26,3 @@ a {
   justify-content: center;
   width: 100%;
 }
-.MuLoader {
-  height: 200px;
-}
-
-.MuLoaderContainer {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
