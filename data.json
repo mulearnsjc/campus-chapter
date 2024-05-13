@@ -1,8 +1,15 @@
 {
     "collegeCode": "SJCET",
     "college": "St Joseph's College of Engineering and Technology",
-    "about": "Welcome to µLearn SJCET, your gateway to transformative education! µLearn is where talents converge to revolutionize education. We're dedicated to reshaping education through a paradigm shift, empowering self-directed learning in a democratic, demonetized, decentralized environment. Our mission: cultivate future skills through collaborative learning, fostering micro peer groups breaking echo chambers and limitations. SJCET is pivotal in µLearn, contributing to and benefiting from initiatives, fostering holistic development, and creating a well-rounded educational experience. Join us to redefine education for a brighter tomorrow.",
+    "about": "Welcome to µLearn SJCET, your gateway to a transformative educational experience! µLearn is an online platform where like-minded talents converge to revolutionize education. We are dedicated in reshaping the educational landscape through a paradigm shift in learning. µLearn empowers students to embrace self-directed education in an democratic, demonetized, and decentralized environment. Our mission is to cultivate essential future skills and knowledge through collaborative learning and by fostering micro peer groups. SJCET plays a pivotal role in the µLearn ecosystem, actively contributing to and benefiting from our initiatives. Through our combined efforts, we have fostered an atmosphere of holistic development, nurturing students' potential and creating a well-rounded educational experience. Together, we're breaking barriers and shaping the future of education. Join us on this exciting journey of discovery, empowerment, and growth. Together, let's reshape education for a brighter tomorrow.",
     "events": [
+        {
+            "month": "apr",
+            "date": "29",
+            "head": "IoT Bootcamp",
+            "para": "A project based IoT bootcamp",
+            "img": "/assets/images/Events/iotbootcamp.jpg"
+        },
         {
             "month": "dec",
             "date": "8-31",
@@ -51,13 +58,7 @@
                 "image": "/assets/images/Gallery/5.jpg"
             },
             {
-                "image": "/assets/images/Gallery/8.jpg"
-            },
-            {
-                "image": "/assets/images/Gallery/11.jpg"
-            },
-            {
-                "image": "/assets/images/Gallery/10.jpg"
+                "image": "/assets/images/Gallery/7.JPG"
             }
         ],
         "row2": [
@@ -65,16 +66,13 @@
                 "image": "/assets/images/Gallery/2.jpg"
             },
             {
-                "image": "/assets/images/Gallery/13.jpg"
+                "image": "/assets/images/Gallery/6.jpg"
             },
             {
-                "image": "/assets/images/Gallery/7.jpg"
+                "image": "/assets/images/Gallery/8.JPG"
             },
             {
-                "image": "/assets/images/Gallery/12.jpg"
-            },
-            {
-                "image": "/assets/images/Gallery/9.jpg"
+                "image": "/assets/images/Gallery/9.JPG"
             }
         ]
     },
@@ -88,35 +86,35 @@
     "team": {
         "staffAdvisor": {
             "name": "Sarju S",
-            "image": "/assets/images/team/sarjus.webp"
+            "image": "/assets/images/team/sarju s.svg"
         },
         "campusLead": {
             "name": "AwinDas R",
-            "image": "/assets/images/team/AwindasR.webp"
+            "image": "/assets/images/team/awin das.svg"
         },
         "campusCoLead": {
             "name": "Akhil Sabu",
-            "image": "/assets/images/team/akhil.webp"
+            "image": "/assets/images/team/akhil.svg"
         },
         "campusCoLead2": {
             "name": "Christy Maria",
-            "image": "/assets/images/team/christy.webp"
+            "image": "/assets/images/team/christy.svg"
         },
         "technicalLead": {
             "name": "Jovit Mathew",
-            "image": "/assets/images/team/jovit.webp"
+            "image": "/assets/images/team/jovit.svg"
         },
         "mediaLead": {
             "name": "Ann Elizabeth",
-            "image": "/assets/images/team/ann.webp"
+            "image": "/assets/images/team/ann.svg"
         },
         "contentLead": {
             "name": "Diya Benny",
-            "image": "/assets/images/team/diya.webp"
+            "image": "/assets/images/team/diya.svg"
         },
         "creativeLead": {
             "name": "Thomas",
-            "image": "/assets/images/team/thomas.webp"
+            "image": "/assets/images/team/thomas.svg"
         }
     },
     "discordLink": "",
@@ -124,6 +122,6 @@
     "email": "mulearn@sjcetpalai.ac.in",
     "linkedIn": "https://www.linkedin.com/in/mulearn-campus-sjcet-palai-33497a254/",
     "instagram": "https://www.instagram.com/mulearn.sjcet/",
-    "twitter": "https://twitter.com/MuLearnSJC",
-    "facebook": "https://www.facebook.com/profile.php?id=61556762904506"
+    "twitter": "",
+    "facebook": ""
 }
