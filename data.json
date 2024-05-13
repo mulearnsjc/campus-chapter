@@ -4,6 +4,13 @@
     "about": "Welcome to µLearn SJCET, your gateway to transformative education! µLearn is where talents converge to revolutionize education. We're dedicated to reshaping education through a paradigm shift, empowering self-directed learning in a democratic, demonetized, decentralized environment. Our mission: cultivate future skills through collaborative learning, fostering micro peer groups breaking echo chambers and limitations. SJCET is pivotal in µLearn, contributing to and benefiting from initiatives, fostering holistic development, and creating a well-rounded educational experience. Join us to redefine education for a brighter tomorrow.",
     "events": [
         {
+            "month": "apr",
+            "date": "29",
+            "head": "IoT Bootcamp",
+            "para": "A project based IoT bootcamp",
+            "img": "/assets/images/Events/iotbootcamp.jpg"
+        },
+        {
             "month": "dec",
             "date": "8-31",
             "head": "Karma Marathon",
